@@ -1,0 +1,90 @@
+body {
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+}
+.navbar-nav{
+    margin-left:auto;
+}
+li.nav-item{
+    padding-left: 0px;
+}
+.experience {
+    color: white;
+}
+.About-me{
+    color: white;
+}
+.card{
+    postion: center;
+}
+.about-image{
+    height:550px;
+    width:350px;
+    margin-top: 50px;
+}
+.about-text{
+    color:white;
+    margin-top: 100px;
+    border: 3px gray solid;
+    border-radius: 10px;
+    height: 350px;
+}
+}
+footer{
+    background-color:white;
+    color:black;
+}
+body {
+    background-color: black;
+    font-family: cursive;
+}
+.glow {
+    font-size: 80px;
+    color: #fff;
+    text-align: center;
+    animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+    from {
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+    }
+
+    to {
+        text-shadow: 0 0 20px #ffffff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+    }
+}
+.color{
+    background-color: white;
+}
+.contact-box
+{
+    width:500px;
+    background-color: #fff;
+    box-shadow: 0 0 20px 0 #999;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+}
+form
+{
+    margin: 35px;
+}
+.input-field
+{
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 10px;
+    border: 1px solid #777;
+    border-radius: 14px;
+    outline: none;
+}
+.mb-3{
+    color:white;
+}
+.hi{
+    color:white;
+}
